@@ -1157,6 +1157,7 @@ select.portfolio-filter-mobile {
   margin-bottom: 30px;
   position: relative;
   width: 100%;
+  padding: 5px; 
 }
 
 .pf-filter-wrapper {
@@ -1169,6 +1170,7 @@ select.portfolio-filter-mobile {
   top: 0;
   right: 20px;
   color: #000;
+  display:none;
 }
 
 /*=================================================================*/
